@@ -57,6 +57,6 @@ def is_prime(x):
 
 print (is_prime(2131))
 print (is_prime(2341))
-print (is_prime(2))
-print (is_prime(1))
+print (is_prime(22))
+print (is_prime(11))
 
