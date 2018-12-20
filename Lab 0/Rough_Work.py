@@ -1,3 +1,5 @@
+from math import sqrt
+
 def is_even(x):
     """If x is even, returns True; otherwise returns False"""
     if (x%2==0):
@@ -44,10 +46,17 @@ print (cube(1.1))
 
 def is_prime(x):
     """Given a number x, returns True if it is prime; otherwise returns False"""
-    if (is_even(x)=='TRUE'):
+    if (is_even(x)=='True' and x!=2):
         return 'False'
     else:
-        for i in rang(3, 2, abs(x/2)):
-            if (x%i=='True'):
+        i=range(3, int(sqrt(x)), 2)
+        for j in i:
+            if (x%j==0):
                 return 'False'
+        return 'True'
+
+print (is_prime(2131))
+print (is_prime(2341))
+print (is_prime(2))
+print (is_prime(1))
 
