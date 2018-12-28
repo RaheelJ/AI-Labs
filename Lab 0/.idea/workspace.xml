@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2925df2f-75bc-4103-99d6-95ad3f11d01e" name="Default Changelist" comment="" />
+    <list default="true" id="2925df2f-75bc-4103-99d6-95ad3f11d01e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rough_Work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rough_Work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab0.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab0.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,30 +17,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="237">
+              <caret line="80" column="11" lean-forward="true" selection-start-line="78" selection-end-line="80" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" />
-                <element signature="e#115#195#0" />
-                <element signature="e#492#554#0" />
-                <element signature="e#751#831#0" />
+                <element signature="e#86#113#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Rough_Work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="47" column="55" lean-forward="true" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+            <state relative-caret-position="424">
+              <caret line="83" column="16" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
               <folding>
-                <element signature="e#20#149#0" />
-                <element signature="e#390#546#0" />
-                <element signature="e#762#824#0" />
+                <element signature="e#43#172#0" />
+                <element signature="e#413#569#0" />
+                <element signature="e#785#847#0" />
+                <element signature="e#1041#1320#0" />
+                <element signature="e#1519#1709#0" />
               </folding>
             </state>
           </provider>
@@ -64,13 +68,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="973" />
+    <option name="x" value="951" />
+    <option name="width" value="971" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -85,23 +89,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Lab 0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab 0" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lab0.py" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lab0">
+  <component name="RunManager" selected="Python.Rough_Work">
     <configuration name="Rough_Work" type="PythonConfigurationType" factoryName="Python">
       <module name="Lab 0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +158,7 @@
     </list>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Raheel Javed\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -174,6 +168,14 @@
       <option name="presentableId" value="Default" />
       <updated>1544686977158</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed testing prime examples">
+      <created>1545303814205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545303814205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -186,7 +188,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="973" height="1047" extended-state="0" />
+    <frame x="951" y="0" width="971" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24919786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24919786" />
@@ -194,7 +197,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946523" visible="true" weight="0.3129103" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4983957" weight="0.32932165" />
@@ -202,6 +205,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50160426" side_tool="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49946523" weight="0.32932165" />
+      <window_info anchor="bottom" id="SVN Repositories" order="11" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,6 +229,16 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -251,6 +265,24 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed testing prime examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed testing prime examples" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/Lab 0.iml">
@@ -275,27 +307,27 @@
     <entry file="file://$PROJECT_DIR$/tester.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rough_Work.py">
+    <entry file="file://$PROJECT_DIR$/lab0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="47" column="55" lean-forward="true" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
+        <state relative-caret-position="237">
+          <caret line="80" column="11" lean-forward="true" selection-start-line="78" selection-end-line="80" selection-end-column="29" />
           <folding>
-            <element signature="e#20#149#0" />
-            <element signature="e#390#546#0" />
-            <element signature="e#762#824#0" />
+            <element signature="n#!!doc" />
+            <element signature="e#86#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab0.py">
+    <entry file="file://$PROJECT_DIR$/Rough_Work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="424">
+          <caret line="83" column="16" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
           <folding>
-            <element signature="n#!!doc" />
-            <element signature="e#115#195#0" />
-            <element signature="e#492#554#0" />
-            <element signature="e#751#831#0" />
+            <element signature="e#43#172#0" />
+            <element signature="e#413#569#0" />
+            <element signature="e#785#847#0" />
+            <element signature="e#1041#1320#0" />
+            <element signature="e#1519#1709#0" />
           </folding>
         </state>
       </provider>

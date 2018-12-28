@@ -2,6 +2,7 @@
 # Written by jb16, jmn, dxh, and past 6.034 staff
 
 from point_api import Point
+from math import sqrt
 
 #### Multiple Choice ###########################################################
 
@@ -57,13 +58,22 @@ def cube(x):
 
 def is_prime(x):
     """Given a number x, returns True if it is prime; otherwise returns False"""
-    raise NotImplementedError
+    if (is_even(x)=='True' and x!=2):
+        return 'False'
+    else:
+        i=range(3, int(sqrt(x)), 2)
+        for j in i:
+            if (x%j==0):
+                return 'False'
+        return 'True'
 
 def primes_up_to(x):
     """Given a number x, returns an in-order list of all primes up to and including x"""
-    raise NotImplementedError
-
-
+    a=[]
+    for i in range(2, x):
+        if (is_prime(i)=='True'):
+            a.append(i)
+    return a
 #### Recursion #################################################################
 
 def fibonacci(n):
