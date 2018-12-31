@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2925df2f-75bc-4103-99d6-95ad3f11d01e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rough_Work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rough_Work.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab0.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab0.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/lab0.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="237">
-              <caret line="80" column="11" lean-forward="true" selection-start-line="78" selection-end-line="80" selection-end-column="29" />
+              <caret line="80" column="11" selection-start-line="78" selection-end-line="80" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" />
                 <element signature="e#86#113#0" expanded="true" />
@@ -30,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rough_Work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="83" column="16" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+            <state relative-caret-position="35">
+              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
               <folding>
                 <element signature="e#43#172#0" />
                 <element signature="e#413#569#0" />
@@ -42,6 +41,15 @@
                 <element signature="e#1041#1320#0" />
                 <element signature="e#1519#1709#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -64,6 +72,8 @@
       <list>
         <option value="$PROJECT_DIR$/lab0.py" />
         <option value="$PROJECT_DIR$/Rough_Work.py" />
+        <option value="$PROJECT_DIR$/.idea/Exceptions.py" />
+        <option value="$PROJECT_DIR$/Exceptions.py" />
       </list>
     </option>
   </component>
@@ -84,6 +94,11 @@
             <path>
               <item name="Lab 0" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Lab 0" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -109,7 +124,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Rough_Work">
+  <component name="RunManager" selected="Python.Exceptions">
+    <configuration name="Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lab 0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Rough_Work" type="PythonConfigurationType" factoryName="Python">
       <module name="Lab 0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +191,13 @@
     <list>
       <item itemvalue="Python.Rough_Work" />
       <item itemvalue="Python.lab0" />
+      <item itemvalue="Python.Exceptions" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exceptions" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Raheel Javed\AppData\Roaming\Subversion</configuration>
@@ -175,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545303814205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added fibonacci recursion problem">
+      <created>1545995100616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545995100616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -191,7 +240,7 @@
     <frame x="951" y="0" width="971" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24919786" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24866024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24919786" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,7 +331,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed testing prime examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed testing prime examples" />
+    <MESSAGE value="Added fibonacci recursion problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added fibonacci recursion problem" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/Lab 0.iml">
@@ -310,7 +360,7 @@
     <entry file="file://$PROJECT_DIR$/lab0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
-          <caret line="80" column="11" lean-forward="true" selection-start-line="78" selection-end-line="80" selection-end-column="29" />
+          <caret line="80" column="11" selection-start-line="78" selection-end-line="80" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" />
             <element signature="e#86#113#0" expanded="true" />
@@ -318,10 +368,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Rough_Work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="83" column="16" lean-forward="true" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+        <state relative-caret-position="35">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
           <folding>
             <element signature="e#43#172#0" />
             <element signature="e#413#569#0" />
@@ -329,6 +382,13 @@
             <element signature="e#1041#1320#0" />
             <element signature="e#1519#1709#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
